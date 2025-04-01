@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Jbellottis/alugames/blob/main/img/print-page.png)
 
-## Hospedagem do projeto no [Vercel](https://projeto-numero-secreto-gules.vercel.app/).
+## Hospedagem do projeto no [Vercel](https://alugames-swart.vercel.app/).
 
 ## Ferramentas utilizadas:
 
