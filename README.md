@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto do Número Secreto.
+# Olá, Bem vindo ao meu projeto do Aluguel de BoardGames.
 
 ![image](https://github.com/Jbellottis/alugames/blob/main/img/print-page.png)
 
